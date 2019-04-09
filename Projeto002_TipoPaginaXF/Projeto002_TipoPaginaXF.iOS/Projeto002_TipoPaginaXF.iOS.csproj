@@ -157,4 +157,7 @@
       <Name>Projeto002_TipoPaginaXF</Name>
     </ProjectReference>
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\horus.png" />
+  </ItemGroup>
 </Project>

@@ -11,7 +11,7 @@ namespace Projeto002_TipoPaginaXF
         {
             InitializeComponent();
 
-            MainPage = new MainPage();
+            MainPage = new Projeto002_TipoPaginaXF.TipoPagina.Carousel.TipoPagina1(); //iniciar a pagina 1
         }
 
         protected override void OnStart()
