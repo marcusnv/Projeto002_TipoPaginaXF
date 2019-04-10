@@ -8,7 +8,7 @@
             <Label Text="Vamos começar !" TextColor="#000000"
                 HorizontalOptions="CenterAndExpand" />
 
-            <Button Image="play.png" BackgroundColor="Transparent"/>
+            <Button VerticalOptions="Center" Clicked="MudarPagina" Image="play.png" BackgroundColor="Transparent"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
