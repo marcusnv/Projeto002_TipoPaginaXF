@@ -1,12 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="Projeto002_TipoPaginaXF.TipoPagina.Carousel.TipoPagina2">
+             x:Class="Projeto002_TipoPaginaXF.TipoPagina.Carousel.TipoPagina2"
+             BackgroundColor="#C0C0C0">
     <ContentPage.Content>
-        <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
+        <StackLayout VerticalOptions="CenterAndExpand">
+            <Label Text="Tipo de anel egípcio" TextColor="#000000"
                 HorizontalOptions="CenterAndExpand" />
+
+            <Image Source="anel.jpg"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>

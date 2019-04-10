@@ -160,4 +160,10 @@
   <ItemGroup>
     <BundleResource Include="Resources\horus.png" />
   </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\anel.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <BundleResource Include="Resources\play.png" />
+  </ItemGroup>
 </Project>

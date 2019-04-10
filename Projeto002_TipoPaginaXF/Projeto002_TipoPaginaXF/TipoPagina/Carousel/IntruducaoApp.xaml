@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<CarouselPage xmlns="http://xamarin.com/schemas/2014/forms"
+              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+              xmlns:TipoPagina ="clr-namespace:Projeto002_TipoPaginaXF.TipoPagina.Carousel"
+              x:Class="Projeto002_TipoPaginaXF.TipoPagina.Carousel.IntruducaoApp">
+    <!-- Criei uma variavel pra atribuir um namespace para pode chamar as paginas externas --> 
+    <TipoPagina:TipoPagina1 />
+    <TipoPagina:TipoPagina2 />
+    <TipoPagina:TipoPagina3 />
+    
+
+
+
+</CarouselPage>
