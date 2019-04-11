@@ -27,5 +27,9 @@ namespace Projeto002_TipoPaginaXF.TipoPagina.Navigation
             //modal e uma pagina q vai ser chamada sem interromper o fluxo do navigation page
             Navigation.PushModalAsync(new modal());
         }
+        private void ChamarMaster(object sender, EventArgs args)
+        {
+            App.Current.MainPage = new Master.Master();
+        }
     }
 }

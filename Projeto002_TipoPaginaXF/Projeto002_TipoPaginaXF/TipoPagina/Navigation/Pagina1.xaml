@@ -17,6 +17,7 @@
 
             <Button Text="Ir para próxima página(2)" Clicked="MudarPagina2"/>
             <Button Text="Chamar Modal" Clicked="ChamarModal" />
+            <Button Text="Chamar Modal" Clicked="ChamarMaster" />
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
